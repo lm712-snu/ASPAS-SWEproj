@@ -1,0 +1,130 @@
+Log ID,Action Type,Details,Timestamp,Username,User Role
+A-ATIL845298,VIEW_AUDIT_LOG,Viewed system audit logs,2025-05-05T19:25:36.793097,admin,admin
+A-ATIL720117,LOGIN,User login: admin (admin),2025-05-05T19:25:26.457249,admin,admin
+A-ATIL277534,LOGOUT,User logout: admin,2025-05-05T19:23:15.071819,admin,admin
+A-ATIL572824,VIEW_AUDIT_LOG,Viewed system audit logs,2025-05-05T19:23:05.071720,admin,admin
+A-ATIL169475,LOGIN,User login: admin (admin),2025-05-05T19:23:01.154097,admin,admin
+A-ATIL132520,LOGOUT,User logout: employee1,2025-05-05T19:22:55.185807,employee1,employee
+A-ATIL339644,LOGIN,User login: employee1 (employee),2025-05-05T19:22:41.353927,employee1,employee
+A-ATIL258135,LOGOUT,User logout: admin,2025-05-05T19:22:31.869187,admin,admin
+A-ATIL338515,VIEW_AUDIT_LOG,Viewed system audit logs,2025-05-05T19:22:06.390084,admin,admin
+A-ATIL249254,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:21:56.332985,admin,admin
+A-ATIL509405,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:21:42.872156,admin,admin
+A-ATIL269963,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:21:32.313528,admin,admin
+A-ATIL595889,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:21:15.399938,admin,admin
+A-ATIL226215,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:21:09.847857,admin,admin
+A-ATIL537085,EXPORT_PDF,Exported monthly sales report as PDF: Monthly_Sales_Report.pdf,2025-05-05T19:20:46.223325,admin,admin
+A-ATIL192426,VIEW_REPORT,Viewed sales report,2025-05-05T19:20:37.902946,admin,admin
+A-ATIL339098,LOGIN,User login: admin (admin),2025-05-05T19:19:53.419523,admin,admin
+A-ATIL569455,LOGOUT,User logout: admin,2025-05-05T19:17:25.464758,admin,admin
+A-ATIL122963,EXPORT_WEEKLY_DEMAND,Exported weekly demand report to CSV: weekly_demand_20250505_191654.csv,2025-05-05T19:16:54.382502,admin,admin
+A-ATIL579861,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:16:49.658252,admin,admin
+A-ATIL271031,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:16:43.160982,admin,admin
+A-ATIL930485,EXPORT_PDF,Exported monthly sales report as PDF: Monthly_Sales_Report.pdf,2025-05-05T19:16:40.184870,admin,admin
+A-ATIL195988,VIEW_REPORT,Viewed sales report,2025-05-05T19:16:36.667609,admin,admin
+A-ATIL316212,EXPORT_AUDIT_LOG,Exported audit logs to CSV: audit_logs_20250505_191620.csv,2025-05-05T19:16:20.483619,admin,admin
+A-ATIL347609,VIEW_AUDIT_LOG,Viewed system audit logs,2025-05-05T19:16:14.017952,admin,admin
+A-ATIL307158,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:15:36.029731,admin,admin
+A-ATIL546182,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:15:30.777466,admin,admin
+A-ATIL503370,LOGIN,User login: admin (admin),2025-05-05T19:15:19.982243,admin,admin
+A-ATIL232724,EXPORT_WEEKLY_DEMAND,Exported weekly demand report to CSV: weekly_demand_20250505_190945.csv,2025-05-05T19:09:45.955198,admin,admin
+A-ATIL180822,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:09:11.789082,admin,admin
+A-ATIL224936,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:08:38.068470,admin,admin
+A-ATIL328480,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:08:13.598835,admin,admin
+A-ATIL413744,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:08:02.480366,admin,admin
+A-ATIL773958,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:07:30.897802,admin,admin
+A-ATIL337401,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:07:26.695997,admin,admin
+A-ATIL265692,RECORD_SALE,"Sale recorded (ID: S-ATIL241) for 'Chassis' (ID: I-ATIL297), Quantity: 125, Amount: ₹1000000.00",2025-05-05T19:07:23.270580,admin,admin
+A-ATIL269361,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:06:45.959995,admin,admin
+A-ATIL265447,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:06:21.576262,admin,admin
+A-ATIL161656,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:06:13.831438,admin,admin
+A-ATIL270495,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:05:19.248932,admin,admin
+A-ATIL174327,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:05:18.507127,admin,admin
+A-ATIL143194,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:05:07.111377,admin,admin
+A-ATIL228153,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:05:06.981505,admin,admin
+A-ATIL238600,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:05:06.164972,admin,admin
+A-ATIL180152,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:04:41.031539,admin,admin
+A-ATIL303632,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:04:35.452270,admin,admin
+A-ATIL228658,RECORD_SALE,"Sale recorded (ID: S-ATIL153) for 'Tyres' (ID: I-ATIL977), Quantity: 1200, Amount: ₹2400000.00",2025-05-05T19:04:06.068802,admin,admin
+A-ATIL271942,RECORD_SALE,"Sale recorded (ID: S-ATIL821) for 'Seats' (ID: I-ATIL288), Quantity: 410, Amount: ₹3075000.00",2025-05-05T19:03:53.301537,admin,admin
+A-ATIL134215,RECORD_SALE,"Sale recorded (ID: S-ATIL114) for 'Gearbox' (ID: I-ATIL178), Quantity: 750, Amount: ₹7500000.00",2025-05-05T19:03:35.385710,admin,admin
+A-ATIL145423,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:02:43.607259,admin,admin
+A-ATIL582538,VIEW_WEEKLY_DEMAND,Analyzed weekly demand for parts,2025-05-05T19:01:46.500719,admin,admin
+A-ATIL119954,LOGIN,User login: admin (admin),2025-05-05T19:01:37.817631,admin,admin
+A-ATIL226776,LOGOUT,User logout: admin,2025-05-05T18:50:41.959656,admin,admin
+A-ATIL192837,LOGIN,User login: admin (admin),2025-05-05T18:50:28.711522,admin,admin
+A-ATIL207386,LOGOUT,User logout: admin,2025-05-05T18:39:37.738316,admin,admin
+A-ATIL425694,LOGIN,User login: admin (admin),2025-05-05T18:39:03.772185,admin,admin
+A-ATIL776697,LOGOUT,User logout: admin,2025-05-05T18:38:49.221430,admin,admin
+A-ATIL115825,LOGIN,User login: admin (admin),2025-05-05T18:38:39.821277,admin,admin
+A-ATIL288647,LOGOUT,User logout: admin,2025-05-05T18:38:28.553669,admin,admin
+A-ATIL302422,LOGIN,User login: admin (admin),2025-05-05T18:36:40.421953,admin,admin
+A-ATIL314755,LOGOUT,User logout: employee1,2025-04-25T21:09:59.600653,employee1,employee
+A-ATIL170877,LOGIN,User login: employee1 (employee),2025-04-25T21:09:33.935113,employee1,employee
+A-ATIL771320,LOGOUT,User logout: admin,2025-04-25T21:09:26.084078,admin,admin
+A-ATIL124480,EXPORT_AUDIT_LOG,Exported audit logs to CSV: audit_logs_20250425_210850.csv,2025-04-25T21:08:50.701090,admin,admin
+A-ATIL195274,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T21:08:44.534080,admin,admin
+A-ATIL147896,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T21:08:25.306617,admin,admin
+A-ATIL101498,EXPORT_PDF,Exported monthly sales report as PDF: Monthly_Sales_Report.pdf,2025-04-25T21:08:10.390809,admin,admin
+A-ATIL474837,VIEW_REPORT,Viewed sales report,2025-04-25T21:08:03.284777,admin,admin
+A-ATIL517332,AUTO_REORDER,Auto-reorder triggered for 'Tyres' (ID: I-ATIL977). Stock updated from 500 to 5000,2025-04-25T21:07:38.194783,admin,admin
+A-ATIL236518,RECORD_SALE,"Sale recorded (ID: S-ATIL255) for 'Tyres' (ID: I-ATIL977), Quantity: 4000, Amount: ₹8000000.00",2025-04-25T21:07:38.192511,admin,admin
+A-ATIL372068,RECORD_SALE,"Sale recorded (ID: S-ATIL878) for 'Tyres' (ID: I-ATIL977), Quantity: 500, Amount: ₹1000000.00",2025-04-25T21:07:03.392221,admin,admin
+A-ATIL118036,ADD_INVENTORY,"Added part 'Tyres' (ID: I-ATIL977), Stock: 5000, Price: 2000.0",2025-04-25T21:06:10.709162,admin,admin
+A-ATIL102745,DELETE_INVENTORY,Deleted part 'Tyres' (ID: I-ATIL802),2025-04-25T21:04:30.044512,admin,admin
+A-ATIL193500,LOGIN,User login: admin (admin),2025-04-25T21:03:10.943458,admin,admin
+A-ATIL217090,AUTO_REORDER,Auto-reorder triggered for 'Engine' (ID: I-ATIL821). Stock updated from 300 to 1000,2025-04-25T15:36:45.142214,admin,admin
+A-ATIL303212,RECORD_SALE,"Sale recorded (ID: S-ATIL145) for 'Engine' (ID: I-ATIL821), Quantity: 450, Amount: ₹5400000.00",2025-04-25T15:36:45.140575,admin,admin
+A-ATIL762973,RECORD_SALE,"Sale recorded (ID: S-ATIL537) for 'Engine' (ID: I-ATIL821), Quantity: 250, Amount: ₹3000000.00",2025-04-25T15:36:23.843415,admin,admin
+A-ATIL112199,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T15:35:26.109597,admin,admin
+A-ATIL327111,EXPORT_PDF,Exported monthly sales report as PDF: Monthly_Sales_Report.pdf,2025-04-25T15:35:14.330194,admin,admin
+A-ATIL212807,VIEW_REPORT,Viewed sales report,2025-04-25T15:35:09.046733,admin,admin
+A-ATIL174277,LOGIN,User login: admin (admin),2025-04-25T15:34:23.024660,admin,admin
+A-ATIL219655,LOGOUT,User logout: admin,2025-04-25T11:31:58.676845,admin,admin
+A-ATIL154454,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T11:31:52.914293,admin,admin
+A-ATIL527161,DELETE_INVENTORY,Deleted part 'abc' (ID: I-ATIL242),2025-04-25T11:31:47.330457,admin,admin
+A-ATIL102498,LOGIN,User login: admin (admin),2025-04-25T11:31:38.844330,admin,admin
+A-ATIL107026,EXPORT_AUDIT_LOG,Exported audit logs to CSV: audit_logs_20250425_101239.csv,2025-04-25T10:12:39.966177,admin,admin
+A-ATIL274692,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T10:12:38.434145,admin,admin
+A-ATIL155526,EXPORT_PDF,Exported monthly sales report as PDF: Monthly_Sales_Report.pdf,2025-04-25T10:12:31.241217,admin,admin
+A-ATIL166313,VIEW_REPORT,Viewed sales report,2025-04-25T10:11:30.925772,admin,admin
+A-ATIL127484,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T10:06:24.698609,admin,admin
+A-ATIL510918,LOGIN,User login: admin (admin),2025-04-25T10:06:16.414365,admin,admin
+A-ATIL277196,AUTO_REORDER,Auto-reorder triggered for 'Engine' (ID: I-ATIL821). Stock updated from 150 to 1000,2025-04-25T10:04:21.531652,employee1,employee
+A-ATIL530368,RECORD_SALE,"Sale recorded (ID: S-ATIL185) for 'Engine' (ID: I-ATIL821), Quantity: 850, Amount: ₹10200000.00",2025-04-25T10:04:21.530204,employee1,employee
+A-ATIL258960,RECORD_SALE,"Sale recorded (ID: S-ATIL406) for 'abc' (ID: I-ATIL242), Quantity: 60, Amount: ₹60000.00",2025-04-25T10:03:27.343693,employee1,employee
+A-ATIL249112,AUTO_REORDER,Auto-reorder triggered for 'abc' (ID: I-ATIL242). Stock updated from 25 to 100,2025-04-25T10:02:52.147011,employee1,employee
+A-ATIL292667,RECORD_SALE,"Sale recorded (ID: S-ATIL340) for 'abc' (ID: I-ATIL242), Quantity: 75, Amount: ₹75000.00",2025-04-25T10:02:52.145572,employee1,employee
+A-ATIL948806,ADD_INVENTORY,"Added part 'abc' (ID: I-ATIL242), Stock: 100, Price: 1000.0",2025-04-25T10:01:41.193694,employee1,employee
+A-ATIL252134,LOGIN,User login: employee1 (employee),2025-04-25T10:00:25.906169,employee1,employee
+A-ATIL302856,LOGOUT,User logout: admin,2025-04-25T10:00:18.505422,admin,admin
+A-ATIL255802,LOGIN,User login: admin (admin),2025-04-25T10:00:11.189830,admin,admin
+A-ATIL108843,LOGOUT,User logout: admin,2025-04-25T09:44:36.753708,admin,admin
+A-ATIL259054,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T09:44:21.121360,admin,admin
+A-ATIL154926,EXPORT_PDF,Exported monthly sales report as PDF: Monthly_Sales_Report.pdf,2025-04-25T09:44:09.429661,admin,admin
+A-ATIL290202,VIEW_REPORT,Viewed sales report,2025-04-25T09:43:54.379961,admin,admin
+A-ATIL112683,LOGIN,User login: admin (admin),2025-04-25T09:41:39.105237,admin,admin
+A-ATIL852307,LOGIN,User login: admin (admin),2025-04-25T09:41:16.188378,admin,admin
+A-ATIL154524,VIEW_GRAPH,Viewed monthly sales graph,2025-04-25T09:39:10.868905,admin,admin
+A-ATIL255668,LOGIN,User login: admin (admin),2025-04-25T09:39:08.353963,admin,admin
+A-ATIL140547,LOGIN,User login: admin (admin),2025-04-25T09:32:51.800526,admin,admin
+A-ATIL337163,LOGOUT,User logout: admin,2025-04-25T09:32:42.333779,admin,admin
+A-ATIL274330,VIEW_REPORT,Viewed sales report,2025-04-25T09:32:13.635768,admin,admin
+A-ATIL132615,EXPORT_PDF,Exported monthly sales report as PDF: Monthly_Sales_Report.pdf,2025-04-25T09:32:10.886796,admin,admin
+A-ATIL251925,LOGIN,User login: admin (admin),2025-04-25T09:32:06.083567,admin,admin
+A-ATIL176331,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T09:22:55.641271,admin,admin
+A-ATIL622353,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T09:22:43.607266,admin,admin
+A-ATIL308242,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T09:22:34.240726,admin,admin
+A-ATIL174631,DELETE_INVENTORY,Deleted part 'xyz' (ID: I-ATIL445),2025-04-25T09:22:30.425244,admin,admin
+A-ATIL109695,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T09:21:15.390780,admin,admin
+A-ATIL850266,AUTO_REORDER,Auto-reorder triggered for 'Engine' (ID: I-ATIL821). Stock updated from 250 to 1000,2025-04-25T09:21:04.841093,admin,admin
+A-ATIL159784,RECORD_SALE,"Sale recorded (ID: S-ATIL286) for 'Engine' (ID: I-ATIL821), Quantity: 750, Amount: ₹9000000.00",2025-04-25T09:21:04.839567,admin,admin
+A-ATIL280178,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T09:20:50.023510,admin,admin
+A-ATIL332064,ADD_INVENTORY,"Added part 'xyz' (ID: I-ATIL445), Stock: 100, Price: 100.0",2025-04-25T09:20:47.639154,admin,admin
+A-ATIL337678,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T09:20:29.056309,admin,admin
+A-ATIL215540,EXPORT_PDF,Exported monthly sales report as PDF: Monthly_Sales_Report.pdf,2025-04-25T09:20:15.143025,admin,admin
+A-ATIL327638,VIEW_REPORT,Viewed sales report,2025-04-25T09:19:50.143918,admin,admin
+A-ATIL263170,LOGIN,User login: admin (admin),2025-04-25T09:18:31.038109,admin,admin
+A-ATIL805939,LOGOUT,User logout: admin,2025-04-25T02:42:06.150436,admin,admin
+A-ATIL246697,VIEW_AUDIT_LOG,Viewed system audit logs,2025-04-25T02:41:49.787325,admin,admin
+A-ATIL331878,LOGIN,User login: admin (admin),2025-04-25T02:41:47.318023,admin,admin
